@@ -33,7 +33,7 @@ It performs real-time system compliance checks, helps users maintain security st
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/CompliGuard.git
+   git clone https://github.com/autumnByte/CompliGuard.git
 2. **Open in IntelliJ IDEA**
 3. **Add the MySQL Connector**
 4. **Place mysql-connector-j-9.3.0.jar inside the lib/ folder**
