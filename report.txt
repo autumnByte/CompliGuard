@@ -1,0 +1,41 @@
+Tue Jun 03 17:44:01 IST 2025:
+🛡️ Antivirus: ✅ Detected
+🔥 Firewall: ✅ ENABLED
+🔐 Disk Encryption: ❓ Unknown/Not Supported
+⚖️ Password Policy: ❌ Not Enforced
+🚪 User Access Controls: ⚠ Admin Rights Granted
+🛌 External Devices: ⚠ Multiple USB devices detected:
+    • USB Composite Device
+    • USB4 Root Router (1.0)
+    • Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+    • Intel(R) USB 3.10 eXtensible Host Controller - 1.20 (Microsoft)
+    • USB Root Hub (USB 3.0)
+    • USB4(TM) Host Router (Microsoft)
+    • USB Root Hub (USB 3.0)
+
+🚄 Startup Apps: ⚠ 16 Apps Found on Startup (May slow boot & pose risk)
+    • Rainmeter
+    • Xilinx Information Center
+    • OneDrive
+    • LenovoVantageToolbar
+    • electron.app.BlueStacks Services
+    • TeraBox
+    • TeraBoxWeb
+    • MicrosoftEdgeAutoLaunch_69D013B5CA15285D4E8A7FFEBC3AC459
+    • GoogleChromeAutoLaunch_0B4F5E135ADCDCFB20D2990C7E3C7DDA
+    • Grammarly
+    • SecurityHealth
+    • AMMW
+    • RtkAudUService
+    • AdobeGCInvoker-1.0
+    • Autodesk Access
+    • Autodesk Access Service
+
+🔄 Updates: ✅ Latest patch:
+Source        Description      HotFixID      InstalledBy          InstalledOn               
+------        -----------      --------      -----------          -----------               
+BT04967       Security Update  KB5058411     NT AUTHORITY\SYSTEM  5/18/2025 12:00:00 AM
+
+📊 Compliance Score: 37%
+⚠️ Risk Detected: Review security settings.
+
