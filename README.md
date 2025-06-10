@@ -37,10 +37,11 @@ It performs real-time system compliance checks, helps users maintain security st
 ![Device Info Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174343.png)
 
 ### 3️⃣ Check Compliance Page
-![Check Compliance Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174418.png)![Check Compliance Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174441.png)
+![Check Compliance Page 1](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174418.png)
+![Check Compliance Page 2](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174441.png)
 
 ### 4️⃣ Reports Page
-![Reports Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174515.png))
+![Reports Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174515.png)
 
 ### 5️⃣ Helpbot
 ![Helpbot Screenshot](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174633.png)
