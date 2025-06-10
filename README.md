@@ -18,7 +18,6 @@ It performs real-time system compliance checks, helps users maintain security st
 - 📶 **Planned network security & user monitoring**
 
 ---
-
 ## 💻 Technologies Used
 
 - **Java (Swing GUI)**
@@ -26,6 +25,25 @@ It performs real-time system compliance checks, helps users maintain security st
 - **JDBC** (MySQL Connector JAR)
 - **IntelliJ IDEA**
 - **Git & GitHub**
+
+---
+
+## 📸 Screenshots
+
+### 1️⃣ Login Page
+![Login Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174324.png)
+
+### 2️⃣ Device Info Page
+![Device Info Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174343.png)
+
+### 3️⃣ Check Compliance Page
+![Check Compliance Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174418.png)![Check Compliance Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174441.png)
+
+### 4️⃣ Reports Page
+![Reports Page](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174515.png))
+
+### 5️⃣ Helpbot
+![Helpbot Screenshot](https://github.com/autumnByte/CompliGuard/blob/master/Screenshots/Screenshot%202025-06-03%20174633.png)
 
 ---
 
@@ -41,20 +59,7 @@ It performs real-time system compliance checks, helps users maintain security st
 6. **Run the Application**
 7. **Run CyberComplianceApp.java**
 8. **Login via the login screen and explore the dashboard**
-
-## 📂 Project Structure
-- css
-- Copy
-- Edit
-- CompliGuard/
-- ├── lib/
-- │   └── mysql-connector-j-9.3.0.jar
-- ├── src/
-- │   ├── CyberComplianceApp.java
-- │   ├── CyberComplianceLogin.java
-- │   └── CyberComplianceUI.java
-- ├── report.txt
-- └── .gitignore
+   
 ---
 ## 🚀 Future Improvements
 - PDF report generation
